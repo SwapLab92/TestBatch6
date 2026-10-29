@@ -1,2 +1,7 @@
 This is a first test file to update on github
+<<<<<<< HEAD
+This is the new line added from another branch
+This is updated code
+=======
 this is the updated line from main branch
+>>>>>>> main
